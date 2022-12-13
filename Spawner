@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source%27)))()
-    local Window = OrionLib:MakeWindow({Name = "Joaco's HUB", HidePremium = false, SaveConfig = true, ConfigFolder = "configs"})
+    local Window = OrionLib:MakeWindow({Name = "Joaco's HUB [Public beta]", HidePremium = false, SaveConfig = true, ConfigFolder = "configs"})
 
     OrionLib:MakeNotification({
         Name = "Thanks!",
